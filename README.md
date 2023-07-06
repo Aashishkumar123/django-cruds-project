@@ -1,0 +1,1 @@
+# django-cruds-project
